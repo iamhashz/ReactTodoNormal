@@ -8,6 +8,8 @@ module.exports = {
     root: __dirname,
     alias: {
       TodoApp: 'app/components/TodoApp.jsx',
+      TodoList: 'app/components/TodoList.jsx',
+      Todo: 'app/components/Todo.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
