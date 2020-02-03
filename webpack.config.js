@@ -9,7 +9,8 @@ module.exports = {
     alias: {
       TodoApp: 'app/components/TodoApp.jsx',
       TodoList: 'app/components/TodoList.jsx',
-      Todo: 'app/components/Todo.jsx'
+      Todo: 'app/components/Todo.jsx',
+      AddTodo: 'app/components/AddTodo.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
